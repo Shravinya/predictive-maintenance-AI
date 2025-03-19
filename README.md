@@ -33,7 +33,7 @@ This project implements a **Predictive Maintenance System** that leverages **Mac
 ## 🔧 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/predictive-maintenance-ai.git
+git clone https://github.com/Shravinya/predictive-maintenance-AI.git
 cd predictive-maintenance-ai
 
 # Install dependencies
